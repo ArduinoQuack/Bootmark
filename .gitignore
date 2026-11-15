@@ -1,0 +1,12 @@
+/build/
+/dist/
+/toolchain/
+/testtools/target/
+/testtools/prepared-*.sh
+/testtools/not-image.txt
+/testtools/launch-test.log
+*.p12
+*.jks
+*.keystore
+password.txt
+__pycache__/
